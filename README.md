@@ -27,16 +27,14 @@ You can also **download blockchain records** as CSV or JSON for further analysis
 ---
 
 ## 📂 Project Structure
-green-track/
-│── app.py # Main Streamlit application
-│── global_co2_emissions.csv # Dataset file (must be downloaded separately)
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
-│── .gitignore # Ignore unnecessary files
+- │── app.py # Main Streamlit application
+- │── global_co2_emissions.csv # Dataset file (must be downloaded separately)
+- │── requirements.txt # Python dependencies
+- │── README.md # Project documentation
+- │── .gitignore # Ignore unnecessary files
 
 
-▶️ Usage
-
-Run the app with:
-streamlit run app.py
+## ▶️ Usage
+- **Run the app with**
+- streamlit run app.py
 
